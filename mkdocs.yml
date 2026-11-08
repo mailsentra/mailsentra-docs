@@ -1,0 +1,28 @@
+site_name: MailSentra Documentation
+site_description: User guides for MailSentra, the WordPress email logging and diagnostics plugin.
+site_url: https://mailsentra.github.io/mailsentra-docs/
+repo_url: https://github.com/mailsentra/mailsentra-docs
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Plans and Licenses: plans-and-licenses.md
+  - Email Logging and Privacy: email-logging-and-privacy.md
+  - Reports: reports.md
+  - Scheduled Email: scheduled-email.md
+  - WooCommerce: woocommerce.md
+  - Email Open Tracking: open-tracking.md
+  - Retention and Uninstall: retention-and-uninstall.md
+  - Troubleshooting: troubleshooting.md
