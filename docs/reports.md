@@ -2,11 +2,15 @@
 
 The dashboard lists recent email attempts and provides search, status filters, source filters, and CSV export. Full message details are loaded when you open an individual log.
 
+![Email Logs dashboard showing activity filters, the chart, and summary cards. Activity values are from a test site and vary by site.](email-logs-dashboard.png)
+
 ## Email activity
 
 The Email Activity chart shows daily sent, failed, and pending counts for the selected week or month. The weekly and monthly reports summarize activity over their respective periods.
 
 Failure Insights groups recent failures by source and broad patterns inferred from captured error text. Its suggested checks are guidance, not a confirmed diagnosis.
+
+![Failure Insights summary cards. The displayed figures are test-site data and will vary by site.](failure-insights-tab.png)
 
 ## CSV export and deletion
 
