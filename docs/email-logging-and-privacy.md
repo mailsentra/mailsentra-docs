@@ -16,6 +16,8 @@ Privacy-focused mode omits recipient and sender details, subject, message conten
 
 Custom mode lets Pro users choose which supported fields to capture. Review the settings carefully before enabling fields that may contain personal or sensitive information.
 
+![MailSentra logging settings comparing Standard diagnostics, Privacy-focused mode, and Custom settings.](settings-logging.png)
+
 ## Existing logs
 
 Changing logging modes affects new logs only; existing log entries are not rewritten. Use **Delete All Logs** on the dashboard to erase the history.

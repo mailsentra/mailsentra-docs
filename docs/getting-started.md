@@ -13,6 +13,8 @@ MailSentra requires WordPress 5.8 or later and PHP 7.4 or later.
 5. Send a test message from **MailSentra > Tools** or trigger an email from your site.
 6. Open **MailSentra > Dashboard** to view the attempt.
 
+![MailSentra Tools page with the test-email form and temporary result panel.](tools-test-email.png)
+
 ## Understand the result
 
 - **Sent by site** means WordPress reported the attempt as completed without a mail exception. It does not confirm inbox delivery.
